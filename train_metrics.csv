@@ -1,0 +1,2 @@
+Total Images Processed,Registration Success Rate,Recall @ 5m (%),Recall @ 20m (%),Precision @ 5m (%),Precision @ 20m (%),Median Localisation Error,Mean Localisation Error,Error Variance,Error Std Dev,Min Error,Max Error,Avg. Inlier Ratio,Avg. Execution Time
+500,78.60000000000001,9.6,9.6,12.213740458015266,12.213740458015266,301.1538687496543,281.43139250104855,21658.512460520884,147.16831337119035,2.792947057862123,717.0592855155516,0.5857879887614514,66.84927171362568
